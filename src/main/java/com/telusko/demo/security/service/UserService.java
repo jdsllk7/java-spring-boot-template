@@ -1,8 +1,8 @@
-package com.telusko.demo.service;
+package com.telusko.demo.security.service;
 
-import com.telusko.demo.enums.Response;
-import com.telusko.demo.model.User;
-import com.telusko.demo.repository.UserRepository;
+import com.telusko.demo.commons.enums.Response;
+import com.telusko.demo.security.model.User;
+import com.telusko.demo.security.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartHttpServletRequest;

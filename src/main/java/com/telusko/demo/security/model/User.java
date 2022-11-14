@@ -1,4 +1,4 @@
-package com.telusko.demo.model;
+package com.telusko.demo.security.model;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

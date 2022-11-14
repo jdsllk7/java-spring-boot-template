@@ -1,6 +1,6 @@
-package com.telusko.demo.repository;
+package com.telusko.demo.security.repository;
 
-import com.telusko.demo.model.User;
+import com.telusko.demo.security.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
