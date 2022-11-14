@@ -2,4 +2,4 @@
 
 Java Spring Boot,
 MySQL,
-User Authentication
+User Authentication - i.e (Signup, login, logout & session management)
