@@ -23,6 +23,6 @@
 <body>
 
 <c:if test="${not empty user}">
-Welcome ${user.email}
+Welcome ${user.username}
 </c:if>
 

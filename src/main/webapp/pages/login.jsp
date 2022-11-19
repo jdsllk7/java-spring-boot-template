@@ -27,7 +27,7 @@
 
     <form id="LoginForm">
 
-        <input type="email" name="email" placeholder="Email"><br>
+        <input type="username" name="username" placeholder="Email / Phone Number"><br>
 
         <input type="password" name="password" placeholder="Password"><br>
 

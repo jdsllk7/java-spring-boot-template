@@ -27,9 +27,13 @@
 
     <form id="SignupForm">
 
-        <input type="email" name="email"><br>
+        <input type="first_name" name="firstName" placeholder="firstName"><br>
 
-        <input type="password" name="password"><br>
+        <input type="last_name" name="lastName" placeholder="lastName"><br>
+
+        <input type="username" name="username" placeholder="username"><br>
+
+        <input type="password" name="password" placeholder="password"><br>
 
         <button type="submit">Signup</button>
 
